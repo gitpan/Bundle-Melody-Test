@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Bundle-Melody-Test
-version:            0.9.6
+version:            0.9.6a
 abstract:           ~
 author:
     - Timothy Appnel <tima@cpan.org>

@@ -4,7 +4,7 @@ use v5.8.1;
 use strict;
 
 use vars qw($VERSION);
-$VERSION = '0.9.6';
+$VERSION = '0.9.6a';
 
 1;
 
@@ -23,16 +23,29 @@ C<perl -MCPAN -e "install Bundle::Melody::Test">
 
 =head1 CONTENTS
 
- 		Devel::Cover
-		Scalar::Util
-		Test::Class
-		Test::Deep
-		Test::Manifest
-    	Test::More
-    	Test::PerlTidy
-    	Test::Pod
-    	Test::PodCoverage
-    	Test::Strict
+Devel::Cover
+
+Scalar::Util
+
+Test::Class
+
+Test::Deep
+
+Test::Manifest
+
+Test::More
+
+Test::PerlTidy
+
+Test::Pod
+
+Test::Pod::Coverage
+
+Test::Strict
+
+Test::NoWarnings
+
+Test::Warn
  
 =head1 DESCRIPTION
 
